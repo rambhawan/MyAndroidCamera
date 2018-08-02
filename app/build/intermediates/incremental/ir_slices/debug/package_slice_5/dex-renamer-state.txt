@@ -1,0 +1,4 @@
+#Thu Aug 02 13:19:34 IST 2018
+base.0=C\:\\Users\\rishabh\\Desktop\\android_retrofit_download_zip-master\\AndroidCameraExample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
